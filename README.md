@@ -1,11 +1,11 @@
 # Binary Trees
 
 ## Description
-This project outlines binary tree fundamentals, the differences between standard binary trees and Binary Search Trees, time complexity gains over linked lists, core tree metrics (depth, height, size), traversal methods, and structural classifications (complete, full, perfect, balanced).
+This project outlines binary tree fundamentals, the differences between standard binary trees and binary search trees, time complexity gains over linked lists, core tree metrics (depth, height, size), traversal methods, and structural classifications (complete, full, perfect, balanced).
 
 ## Requirements
 * Allowed editors: vi, vim, emacs
-* All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
+* All files are compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
 * All files should end with a new line
 * Code should use the Betty style. 
 * Global variables are not allowed to use.
