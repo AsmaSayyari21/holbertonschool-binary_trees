@@ -1,6 +1,5 @@
 #include "binary_trees.h"
 
-int is_perfect_recursive(const binary_tree_t *tree, size_t depth, size_t level);
 size_t get_depth(const binary_tree_t *tree);
 
 /**
